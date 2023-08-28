@@ -1,0 +1,14 @@
+# import data from csv
+# clean data
+# split data into train and test
+# create model
+# check the output of the model
+# improve model
+
+# tools for ML
+# numpy
+# pandas
+# scikit-learn
+# matplotlib
+# jupiter notebook
+# kaggle
